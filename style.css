@@ -36,6 +36,11 @@ display:none;
 font-family:'Playfair Display'
 }
 
+.Resume_Page {
+display:none;
+font-family:'Playfair Display'
+}
+
 .JA {
 height:500px;
 width:500px;
@@ -49,6 +54,41 @@ color: blue;
 color: greenyellow;
 }
 
+.Julius_Randle {
+color: white;
+}
+.About {
+background-color:#0096FF;
+border-style:solid;
+color:black;
+border-width: medium;
+border-color:black;
+}
+
+.Contact {
+background-color:#0096FF;
+border-style:solid;
+color:black;
+border-width: medium;
+border-color:black;
+}
+
+.Resume {
+background-color:#0096FF;
+border-style:solid;
+color:black;
+border-width: medium;
+border-color:black;
+}
+
+.Projects {
+background-color:#0096FF;
+border-style:solid;
+color:black;
+border-width: medium;
+border-color:black;
+}
+
 .JA_2022 {
 height:500px;
 width:500px;
@@ -56,9 +96,31 @@ border-style:solid;
 border-radius: 12px;
 border-width: medium;
 }
-.Bball {
+.Counter {
 height:200px;
 width:200px;
+border-style:solid;
+border-radius: 12px;
+border-width: medium;
+border-color:gold;
+}
+
+.Stephen_A_Smith {
+height:200px;
+width:200px;
+border-style:solid;
+border-radius: 12px;
+border-width: medium;
+border-color:lime;
+}
+
+.Seth_Freakin_Rollins {
+height:200px;
+width:200px;
+border-style:solid;
+border-radius: 12px;
+border-width: medium;
+border-color:blue;
 }
 
 .Ret {
