@@ -1,6 +1,7 @@
 html, body {
   height: 100%;
   width: 100%;
+background-color:pink;
 }
 
 
@@ -16,14 +17,54 @@ color: greenyellow;
 color: blue;
 }
 
-.Txt {
-font-family:'Playfair Display';
-}
-
-.Txt_2 {
+.Home_Page {
 font-family:'Playfair Display';
 }
 
 .About_Me_Page {
 display:none;
+font-family:'Playfair Display'
+}
+
+.Contact_Page {
+display:none;
+font-family:'Playfair Display'
+}
+
+.Projects_Page {
+display:none;
+font-family:'Playfair Display'
+}
+
+.JA {
+height:500px;
+width:500px;
+}
+
+.PG13 {
+color: blue;
+}
+
+.Kawhi {
+color: greenyellow;
+}
+
+.JA_2022 {
+height:500px;
+width:500px;
+border-style:solid;
+border-radius: 12px;
+border-width: medium;
+}
+.Bball {
+height:200px;
+width:200px;
+}
+
+.Ret {
+background-color:red;
+border-style:solid;
+color:black;
+border-radius: 12px;
+border-width: medium;
 }
