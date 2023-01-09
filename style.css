@@ -1,12 +1,12 @@
 html, body {
   height: 100%;
   width: 100%;
-background-color:pink;
+background-color:#019DC6;
 }
 
 
 .Me {
-color: blue;
+color:orange;
 }
 
 .Subject {
@@ -14,7 +14,7 @@ color: greenyellow;
 }
 
 .School {
-color: blue;
+color:orange;
 }
 
 .Home_Page {
@@ -47,18 +47,18 @@ width:500px;
 }
 
 .PG13 {
-color: blue;
+color:#DCEDC8;
 }
 
 .Kawhi {
-color: greenyellow;
+color:#673AB7;
 }
 
 .Julius_Randle {
 color: white;
 }
 .About {
-background-color:#0096FF;
+background-color:#C39BD3;
 border-style:solid;
 color:black;
 border-width: medium;
@@ -66,7 +66,7 @@ border-color:black;
 }
 
 .Contact {
-background-color:#0096FF;
+background-color:#C39BD3;
 border-style:solid;
 color:black;
 border-width: medium;
@@ -74,7 +74,7 @@ border-color:black;
 }
 
 .Resume {
-background-color:#0096FF;
+background-color:#C39BD3;
 border-style:solid;
 color:black;
 border-width: medium;
@@ -82,7 +82,7 @@ border-color:black;
 }
 
 .Projects {
-background-color:#0096FF;
+background-color:#C39BD3;
 border-style:solid;
 color:black;
 border-width: medium;
@@ -121,6 +121,23 @@ border-style:solid;
 border-radius: 12px;
 border-width: medium;
 border-color:blue;
+}
+
+.Lebron_20 {
+height:200px;
+width:200px;
+border-style:solid;
+border-radius: 12px;
+border-width: medium;
+border-color:#8D43FF;
+}
+.PG13 {
+font-family:'Carter One'
+}
+
+.menu {
+justify-content:space-around;
+background-color:yellow;
 }
 
 .Ret {
