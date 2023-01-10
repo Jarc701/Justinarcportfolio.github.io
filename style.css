@@ -1,9 +1,15 @@
 html, body {
   height: 100%;
   width: 100%;
-background-color:#00e1ff;
 }
 
+.Devin_Booker {
+background-image:url("NBA\ 2k23.jpg");
+height:100%;
+background-position:center;
+background-repeat:no-repeat;
+background-size:cover;  
+}
 
 .Me {
 color:orange;
@@ -40,6 +46,7 @@ font-family:'Playfair Display'
 display:none;
 font-family:'Playfair Display'
 }
+
 
 .JA {
 height:200px;
