@@ -1,7 +1,7 @@
 html, body {
   height: 100%;
   width: 100%;
-background-color:#019DC6;
+background-color:#00e1ff;
 }
 
 
@@ -42,7 +42,7 @@ font-family:'Playfair Display'
 }
 
 .JA {
-height:500px;
+height:200px;
 width:500px;
 }
 
@@ -58,7 +58,7 @@ color:#673AB7;
 color: white;
 }
 .About {
-background-color:#C39BD3;
+background-color:yellow;
 border-style:solid;
 color:black;
 border-width: medium;
@@ -66,7 +66,7 @@ border-color:black;
 }
 
 .Contact {
-background-color:#C39BD3;
+background-color:yellow;
 border-style:solid;
 color:black;
 border-width: medium;
@@ -74,7 +74,7 @@ border-color:black;
 }
 
 .Resume {
-background-color:#C39BD3;
+background-color:yellow;
 border-style:solid;
 color:black;
 border-width: medium;
@@ -82,7 +82,7 @@ border-color:black;
 }
 
 .Projects {
-background-color:#C39BD3;
+background-color:yellow;
 border-style:solid;
 color:black;
 border-width: medium;
